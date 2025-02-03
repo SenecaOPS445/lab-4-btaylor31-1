@@ -1,5 +1,3 @@
-#!/usr/bin/env
-
 #!/usr/bin/env python3
 
 def join_sets(s1, s2):
